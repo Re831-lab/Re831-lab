@@ -4,7 +4,6 @@
 - 🎓 Computer Science student
 - 🎨 Learning UI/UX design as a beginner
 - 💻 Programming with **Python**, **Java**, and **C**
-- 🌐 Using **HTML/CSS** for portfolio projects
 - 🌱 Currently learning: Data structures and design principles
 - 📚 Love solving programming problems and exploring design
 
@@ -12,8 +11,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -31,9 +28,9 @@
 - **SkillStack-Paths**: Learning journey with Gaza Sky Geeks
 
 ## 📫 Connect with me
-- 💼 [LinkedIn](your-linkedin-profile)
-- 📧 [Email](mailto:your-email@example.com)
-- 🌐 [Portfolio](your-portfolio-website)
+- 💼 [LinkedIn](www.linkedin.com/in/rasha-zreaq)
+- 📧 [Email](rasha.2005zreaq@gmail.com)
+
 
 ## ⚡ Fun facts about me
 - 🐱 I love cats (as you can see from my profile picture!)
