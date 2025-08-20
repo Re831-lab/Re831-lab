@@ -1,17 +1,20 @@
-
 # Hi there, I'm Re 👋
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science student passionate about learning and development
-- 💻 Focused on **Java** and **Data Structures**
-- 🌱 Currently learning: Advanced Programming and Data Analysis
-- 📚 Love solving programming problems and technical challenges
+- 🎓 Computer Science student
+- 🎨 Learning UI/UX design as a beginner
+- 💻 Programming with **Python**, **Java**, and **C**
+- 🌐 Using **HTML/CSS** for portfolio projects
+- 🌱 Currently learning: Data structures and design principles
+- 📚 Love solving programming problems and exploring design
 
 ## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Re831-lab&show_icons=true&theme=dark&hide_border=true)
@@ -21,9 +24,11 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Re831-lab&theme=react-dark&hide_border=true)
 
 ## 🎯 Featured Projects
-- **Advanced-Java**: Advanced Java code from Spring 2025 lectures
-- **DataStru**: Practical applications of data structures
-- **SkillStack-Paths**: My learning journey with Gaza Sky Geeks
+- **OOP Python**: Object-oriented programming concepts and implementations
+- **Advanced-Java**: Java programming exercises from coursework
+- **DataStru**: Data structures and algorithms practice
+- **C Programming**: Basic C programming assignments
+- **SkillStack-Paths**: Learning journey with Gaza Sky Geeks
 
 ## 📫 Connect with me
 - 💼 [LinkedIn](your-linkedin-profile)
@@ -32,8 +37,8 @@
 
 ## ⚡ Fun facts about me
 - 🐱 I love cats (as you can see from my profile picture!)
-- 💡 I believe programming is both art and science
-- 🎯 Goal: To become an outstanding software developer
+- 💡 Learning both programming and design
+- 🎯 Goal: Improve my coding and design skills step by step
 
 ---
-💫 *"Clean code is not just working code, it tells a story"*
+💫 *"Every expert was once a beginner"*
