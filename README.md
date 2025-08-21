@@ -76,19 +76,14 @@
 
 ---
 
-## 📂 **Projects**
-
-**OOP Python** • **Advanced Java** • **DataStru** • **C Programming** • **SkillStack Paths**
-
----
 
 ## 🌐 **Let's Connect**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasha-zreaq)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasha.2005zreaq@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Re831-lab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5DEB3?style=for-the-badge&logo=linkedin&logoColor=8B4513)](https://www.linkedin.com/in/rasha-zreaq)
+[![Email](https://img.shields.io/badge/Email-DEB887?style=for-the-badge&logo=gmail&logoColor=8B4513)](mailto:rasha.2005zreaq@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-D2B48C?style=for-the-badge&logo=github&logoColor=8B4513)](https://github.com/Re831-lab)
 
 </div>
 
@@ -123,8 +118,8 @@
 
 ### 💫 *"Every expert was once a beginner"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Re831-lab&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Re831-lab?style=for-the-badge&color=orange&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=Re831-lab&color=D2B48C&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Re831-lab?style=for-the-badge&color=DEB887&labelColor=F5DEB3)
 
 **⭐ Thanks for visiting my profile! ⭐**
 
