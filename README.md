@@ -1,7 +1,7 @@
 # <div align="center">🌟 Hi there, I'm Re 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B7355&center=true&vCenter=true&width=435&lines=Computer+Science+Student;UI%2FUX+Design+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B4513&center=true&vCenter=true&width=435&lines=Computer+Science+Student;UI%2FUX+Design+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ---
@@ -32,17 +32,17 @@
 <div align="center">
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000000)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-F5DEB3?style=for-the-badge&logo=python&logoColor=8B4513&labelColor=D2B48C)
+![Java](https://img.shields.io/badge/Java-DEB887?style=for-the-badge&logo=openjdk&logoColor=8B4513&labelColor=F5DEB3)
+![C](https://img.shields.io/badge/C-D2B48C?style=for-the-badge&logo=c&logoColor=8B4513&labelColor=F5DEB3)
 
 ### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F5DEB3?style=for-the-badge&logo=git&logoColor=8B4513&labelColor=D2B48C)
+![VS Code](https://img.shields.io/badge/VS_Code-DEB887?style=for-the-badge&logo=visual-studio-code&logoColor=8B4513&labelColor=F5DEB3)
+![GitHub](https://img.shields.io/badge/GitHub-D2B48C?style=for-the-badge&logo=github&logoColor=8B4513&labelColor=F5DEB3)
 
 ### **Design Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
+![Figma](https://img.shields.io/badge/Figma-F5DEB3?style=for-the-badge&logo=figma&logoColor=8B4513&labelColor=D2B48C)
 
 </div>
 
@@ -54,15 +54,15 @@
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Re831-lab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Re831-lab&show_icons=true&theme=default&hide_border=true&bg_color=F5F5DC&title_color=8B4513&icon_color=D2B48C&text_color=8B4513" alt="GitHub Stats" width="400"/>
 </td>
 <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Re831-lab&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Re831-lab&theme=default&hide_border=true&background=F5F5DC&stroke=8B4513&ring=D2B48C&fire=8B4513&currStreakLabel=8B4513" alt="GitHub Streak" width="400"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re831-lab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re831-lab&layout=compact&theme=default&hide_border=true&bg_color=F5F5DC&title_color=8B4513&text_color=8B4513" alt="Top Languages" width="400"/>
 
 </div>
 
@@ -71,11 +71,16 @@
 ## 📈 **Contribution Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Re831-lab&theme=github-compact&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Re831-lab&theme=github-compact&bg_color=F5F5DC&color=8B4513&line=D2B48C&point=8B4513&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
+## 📂 **Projects**
+
+**OOP Python** • **Advanced Java** • **DataStru** • **C Programming** • **SkillStack Paths**
+
+---
 
 ## 🌐 **Let's Connect**
 
