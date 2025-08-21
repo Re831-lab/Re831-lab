@@ -43,7 +43,6 @@
 
 ### **Design Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white&labelColor=000000)
 
 </div>
 
@@ -77,48 +76,9 @@
 
 ---
 
-## 🚀 **Featured Projects**
+## 📂 **Projects**
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🐍 **OOP Python**
-*Object-oriented programming mastery*
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### ☕ **Advanced Java**
-*Enterprise Java development*
-<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 📚 **DataStru**
-*Algorithms & Data Structures*
-<br>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 **SkillStack Paths**
-*Gaza Sky Geeks Journey*
-<br>
-![Learning](https://img.shields.io/badge/Learning-FF6B6B?style=flat-square&logo=graduation-cap&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
+**OOP Python** • **Advanced Java** • **DataStru** • **C Programming** • **SkillStack Paths**
 
 ---
 
