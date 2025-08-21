@@ -76,11 +76,6 @@
 
 ---
 
-## 📂 **Projects**
-
-**OOP Python** • **Advanced Java** • **DataStru** • **C Programming** • **SkillStack Paths**
-
----
 
 ## 🌐 **Let's Connect**
 
