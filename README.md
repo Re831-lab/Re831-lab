@@ -1,60 +1,95 @@
 <div align="center">
 
-# Hi, I'm Rasha 👋🌙
+# Hi, I'm Rasha ✨🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B4513&center=true&vCenter=true&width=435&lines=CS+Student;Front-End+Developer;UI%2FUX+Enthusiast;Always+Learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=CS+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%8C%B8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Welcome+to+my+profile!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+### 🌷 A little about me...
 
-- 🎓 Computer Science Student
-- 🎨 Passionate about UI/UX Design
-- 🐱 Cat lover
-- 💡 One commit at a time
-
----
-
-### 🛠️ Tech Stack
-
-**Front-End**
-![HTML](https://img.shields.io/badge/HTML5-F5DEB3?style=for-the-badge&logo=html5&logoColor=8B4513)
-![CSS](https://img.shields.io/badge/CSS3-DEB887?style=for-the-badge&logo=css3&logoColor=8B4513)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5DEB3?style=for-the-badge&logo=javascript&logoColor=8B4513)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-D2B48C?style=for-the-badge&logo=bootstrap&logoColor=8B4513)
-
-**Back-End & DB**
-![PHP](https://img.shields.io/badge/PHP-DEB887?style=for-the-badge&logo=php&logoColor=8B4513)
-![SQL](https://img.shields.io/badge/SQL-F5DEB3?style=for-the-badge&logo=mysql&logoColor=8B4513)
-
-**Programming**
-![Python](https://img.shields.io/badge/Python-D2B48C?style=for-the-badge&logo=python&logoColor=8B4513)
-![Java](https://img.shields.io/badge/Java-DEB887?style=for-the-badge&logo=openjdk&logoColor=8B4513)
-![C](https://img.shields.io/badge/C-F5DEB3?style=for-the-badge&logo=c&logoColor=8B4513)
-
-**Design & Tools**
-![Figma](https://img.shields.io/badge/Figma-D2B48C?style=for-the-badge&logo=figma&logoColor=8B4513)
-![Git](https://img.shields.io/badge/Git-F5DEB3?style=for-the-badge&logo=git&logoColor=8B4513)
-![VS Code](https://img.shields.io/badge/VS_Code-DEB887?style=for-the-badge&logo=visual-studio-code&logoColor=8B4513)
+> 🎓 CS Student who loves turning ideas into interfaces  
+> 🎨 UI/UX is my happy place  
+> 🐱 Certified cat person  
+> ☕ Debugging with coffee since day one  
+> 💌 Always open to connect!
 
 ---
 
-### 📊 GitHub Stats
+### 💻 What I work with
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Re831-lab&show_icons=true&hide_border=true&bg_color=F5F5DC&title_color=8B4513&icon_color=D2B48C&text_color=8B4513" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re831-lab&layout=compact&hide_border=true&bg_color=F5F5DC&title_color=8B4513&text_color=8B4513" width="300"/>
+
+| 🌸 Front-End | 🪄 Back-End & DB | 🖥️ Programming | 🎨 Design |
+|:---:|:---:|:---:|:---:|
+| HTML · CSS · JS | PHP · SQL | Python · Java · C | Figma |
+| Bootstrap | MySQL | Algorithms | GUI Design |
+
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### 🎀 My Skills in Badges
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5DEB3?style=for-the-badge&logo=linkedin&logoColor=8B4513)](https://www.linkedin.com/in/rasha-zreaq)
-[![Email](https://img.shields.io/badge/Email-DEB887?style=for-the-badge&logo=gmail&logoColor=8B4513)](mailto:rasha.2005zreaq@gmail.com)
+![HTML](https://img.shields.io/badge/HTML5-FFD6E7?style=for-the-badge&logo=html5&logoColor=b05fa3)
+![CSS](https://img.shields.io/badge/CSS3-E9D5FF?style=for-the-badge&logo=css3&logoColor=7c3aed)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF3CD?style=for-the-badge&logo=javascript&logoColor=b05fa3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-E9D5FF?style=for-the-badge&logo=bootstrap&logoColor=7c3aed)
+![PHP](https://img.shields.io/badge/PHP-FFD6E7?style=for-the-badge&logo=php&logoColor=b05fa3)
+![SQL](https://img.shields.io/badge/SQL-FFF3CD?style=for-the-badge&logo=mysql&logoColor=7c3aed)
+![Python](https://img.shields.io/badge/Python-E9D5FF?style=for-the-badge&logo=python&logoColor=7c3aed)
+![Java](https://img.shields.io/badge/Java-FFD6E7?style=for-the-badge&logo=openjdk&logoColor=b05fa3)
+![C](https://img.shields.io/badge/C-FFF3CD?style=for-the-badge&logo=c&logoColor=b05fa3)
+![Figma](https://img.shields.io/badge/Figma-FFD6E7?style=for-the-badge&logo=figma&logoColor=b05fa3)
+![Git](https://img.shields.io/badge/Git-E9D5FF?style=for-the-badge&logo=git&logoColor=7c3aed)
+![VS Code](https://img.shields.io/badge/VS_Code-FFF3CD?style=for-the-badge&logo=vscode&logoColor=b05fa3)
+
+</div>
+
+---
+
+### 📊 My GitHub in numbers
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Re831-lab&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=b05fa3&icon_color=C084FC&text_color=7c3aed" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re831-lab&layout=donut&hide_border=true&bg_color=fff0f6&title_color=b05fa3&text_color=7c3aed" width="280"/>
+
+</div>
+
+---
+
+### 🌸 Fun Facts
+```
+🐱  My cat judges my code (honestly fair)
+🎨  I spend more time on colors than logic (no regrets)
+💡  I google things I already know, just to be sure
+🌙  Best ideas come after midnight
+```
+
+---
+
+### 💌 Let's connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect!-FFD6E7?style=for-the-badge&logo=linkedin&logoColor=b05fa3)](https://www.linkedin.com/in/rasha-zreaq)
+[![Email](https://img.shields.io/badge/Say_hi!-E9D5FF?style=for-the-badge&logo=gmail&logoColor=7c3aed)](mailto:rasha.2005zreaq@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*✨ Thanks for stopping by! ✨*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
 
 </div>
