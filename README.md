@@ -54,13 +54,14 @@
 
 ---
 
-### 📊 My GitHub in numbers
+### 🐍 My Contributions
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Re831-lab&show_icons=true&hide_border=true&bg_color=fff0f6&title_color=b05fa3&icon_color=C084FC&text_color=7c3aed" width="380"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re831-lab&layout=donut&hide_border=true&bg_color=fff0f6&title_color=b05fa3&text_color=7c3aed" width="280"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Re831-lab/Re831-lab/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Re831-lab/Re831-lab/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Re831-lab/Re831-lab/output/github-contribution-grid-snake.svg"/>
+</picture>
 </div>
 
 ---
