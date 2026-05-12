@@ -2,7 +2,7 @@
 
 # Hi, I'm Rasha ✨🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=CS+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%8C%B8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=CS+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%8C%B8;Flutter+Dev+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=Welcome+to+my+profile!&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
@@ -24,10 +24,10 @@
 
 <div align="center">
 
-| 🌸 Front-End | 🪄 Back-End & DB | 🖥️ Programming | 🎨 Design |
-|:---:|:---:|:---:|:---:|
-| HTML · CSS · JS | PHP · SQL | Python · Java · C | Figma |
-| Bootstrap | MySQL | Algorithms | GUI Design |
+| 🌸 Front-End | 🪄 Back-End & DB | 🖥️ Programming | 📱 Mobile & Game | 🎨 Design |
+|:---:|:---:|:---:|:---:|:---:|
+| HTML · CSS · JS | PHP · SQL | Python · Java · C | Flutter · Dart | Figma |
+| Bootstrap | MySQL | Algorithms · C++ | C# · Unity | GUI Design |
 
 </div>
 
@@ -46,6 +46,11 @@
 ![Python](https://img.shields.io/badge/Python-E9D5FF?style=for-the-badge&logo=python&logoColor=7c3aed)
 ![Java](https://img.shields.io/badge/Java-FFD6E7?style=for-the-badge&logo=openjdk&logoColor=b05fa3)
 ![C](https://img.shields.io/badge/C-FFF3CD?style=for-the-badge&logo=c&logoColor=b05fa3)
+![C++](https://img.shields.io/badge/C++-FFD6E7?style=for-the-badge&logo=cplusplus&logoColor=b05fa3)
+![C#](https://img.shields.io/badge/C%23-E9D5FF?style=for-the-badge&logo=csharp&logoColor=7c3aed)
+![Flutter](https://img.shields.io/badge/Flutter-FFD6E7?style=for-the-badge&logo=flutter&logoColor=b05fa3)
+![Dart](https://img.shields.io/badge/Dart-E9D5FF?style=for-the-badge&logo=dart&logoColor=7c3aed)
+![Unity](https://img.shields.io/badge/Unity-FFF3CD?style=for-the-badge&logo=unity&logoColor=b05fa3)
 ![Figma](https://img.shields.io/badge/Figma-FFD6E7?style=for-the-badge&logo=figma&logoColor=b05fa3)
 ![Git](https://img.shields.io/badge/Git-E9D5FF?style=for-the-badge&logo=git&logoColor=7c3aed)
 ![VS Code](https://img.shields.io/badge/VS_Code-FFF3CD?style=for-the-badge&logo=vscode&logoColor=b05fa3)
@@ -67,11 +72,13 @@
 ---
 
 ### 🌸 Fun Facts
+
 ```
 🐱  My cat judges my code (honestly fair)
 🎨  I spend more time on colors than logic (no regrets)
 💡  I google things I already know, just to be sure
 🌙  Best ideas come after midnight
+🚀  Currently exploring Flutter, Unity & C++
 ```
 
 ---
@@ -84,7 +91,6 @@
 [![Email](https://img.shields.io/badge/Say_hi!-E9D5FF?style=for-the-badge&logo=gmail&logoColor=7c3aed)](mailto:rasha.2005zreaq@gmail.com)
 
 </div>
-
 ---
 
 <div align="center">
