@@ -26,7 +26,7 @@
 
 | 🌸 Front-End | 🪄 Back-End & DB | 🖥️ Programming | 📱 Mobile & Game | 🎨 Design |
 |:---:|:---:|:---:|:---:|:---:|
-| HTML · CSS · JS | PHP · SQL | Python · Java · C | Flutter · Dart | Figma |
+| HTML · CSS · JS · jQuery | PHP · SQL | Python · Java · C | Flutter · Dart | Figma |
 | Bootstrap | MySQL | Algorithms · C++ | C# · Unity | GUI Design |
 
 </div>
@@ -40,6 +40,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-FFD6E7?style=for-the-badge&logo=html5&logoColor=b05fa3)
 ![CSS](https://img.shields.io/badge/CSS3-E9D5FF?style=for-the-badge&logo=css3&logoColor=7c3aed)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF3CD?style=for-the-badge&logo=javascript&logoColor=b05fa3)
+![jQuery](https://img.shields.io/badge/jQuery-FFD6E7?style=for-the-badge&logo=jquery&logoColor=b05fa3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E9D5FF?style=for-the-badge&logo=bootstrap&logoColor=7c3aed)
 ![PHP](https://img.shields.io/badge/PHP-FFD6E7?style=for-the-badge&logo=php&logoColor=b05fa3)
 ![SQL](https://img.shields.io/badge/SQL-FFF3CD?style=for-the-badge&logo=mysql&logoColor=7c3aed)
